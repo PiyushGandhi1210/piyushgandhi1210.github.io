@@ -272,16 +272,25 @@
   }
 }
 
-/* Remove conflicting styles at the bottom that override earlier definitions */
-/* Instead, use this more specific selector for sidebar profile images */
+/* Ensure all sidebar images are perfectly circular */
 .sidebar .author__avatar img {
+  aspect-ratio: 1/1;  /* Force 1:1 aspect ratio */
   width: 185px;
   height: 185px;
   object-fit: cover;
+  object-position: center;  /* Center the image within the container */
   border-radius: 50%;
   
   @media (max-width: 768px) {
     width: 120px;
     height: 120px;
   }
+}
+
+/* Add this fix for any other potential image containers in the sidebar */
+.sidebar img.profile {
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
 }
