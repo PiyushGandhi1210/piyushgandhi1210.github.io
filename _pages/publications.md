@@ -30,7 +30,7 @@ ___
 
 ---
 
-**Cost-Benefit Analysis of Flood Mitigation Using Nature Based Solutions in California** (with Drishan Banerjee, [Galina Hale](https://sites.google.com/view/galinahale/home) and Borja G. Reguero
+**Cost-Benefit Analysis of Flood Mitigation Using Nature Based Solutions in California** (with Drishan Banerjee, [Galina Hale](https://sites.google.com/view/galinahale/home) and Borja G. Reguero)
 
 ___
 
