@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true 
 ---
 <div style="text-align: justify;">
-I have served as a Teaching Assistant for multiple undergraduate Economics courses at UC Santa Cruz. I was honored with the <strong>Best Teaching Assistant Award for Winter 2023 quarter</strong> in recognition of my teaching contributions.
+I have served as a Teaching Assistant for multiple undergraduate Economics courses at UC Santa Cruz. I was awarded  the <strong>Best Teaching Assistant Award for Winter 2023 quarter</strong> in recognition of my teaching contributions.
 </div>
 ---
 
