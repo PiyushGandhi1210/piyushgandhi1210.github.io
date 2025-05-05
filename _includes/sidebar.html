@@ -6,14 +6,14 @@
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
-       <img src=
+      <img src=
 {% if s.image contains "://" %}
   "{{ s.image }}"
 {% else %}
   "{{ s.image | prepend: "/images/" | prepend: base_path }}"
 {% endif %}
 alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}"
-style="max-width: 100%; height: auto; border-radius: 50%;">
+style="width: 100%; height: 180px; object-fit: cover; border-radius: 50%;">
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
