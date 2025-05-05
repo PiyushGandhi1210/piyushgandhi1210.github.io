@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Piyush Gandhi"
+title                    : # "Piyush Gandhi"
 title_separator          : "-"
 name                     : &name "Piyush Gandhi"
 description              : &description "PhD candidate at UC Santa Cruz | Researching development economics and environmental sustainability"
