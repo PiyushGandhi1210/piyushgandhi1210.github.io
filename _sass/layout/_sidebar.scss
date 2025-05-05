@@ -95,8 +95,8 @@
 
   img {
    border-radius: 50% / 70%; /* vertical ellipse */
-  width: 170px;
-  height: 200px; /* taller height = vertical ellipse */
+  width: 160px;
+  height: 180px; /* taller height = vertical ellipse */
   object-fit: cover;
 
     @include breakpoint($large) {
