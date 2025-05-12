@@ -43,4 +43,4 @@ ___
 
 ___
 
-**Mitigating Groundwater Depletion in Punjab: Canals as a Sustainable Alternative** (with Rajdev Brar and [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/)
+**Mitigating Groundwater Depletion in Punjab: Canals as a Sustainable Alternative** (with Rajdev Brar and [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/))
