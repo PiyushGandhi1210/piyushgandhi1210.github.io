@@ -137,7 +137,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/images/social-card.png
+og_image: /assets/images/social-card.png
 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
