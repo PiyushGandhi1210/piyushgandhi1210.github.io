@@ -22,8 +22,7 @@ author_profile: true
 
 ### Working Papers
 
-[**Does Micro-irrigation Save Energy? An Investigation in Gujarat, India**](/files
-/Micro_Irrigation_Gujarat.pdf) (with [Nick Hagerty](https://www.nickhagerty.com/) and [Ariel Zucker](https://www.arielzucker.net); under review, _Energy Economics_ )
+[**Does Micro-irrigation Save Energy? An Investigation in Gujarat, India**](/files/Micro_Irrigation_Gujarat.pdf) (with [Nick Hagerty](https://www.nickhagerty.com/) and [Ariel Zucker](https://www.arielzucker.net); under review, _Energy Economics_ )
 
 **Abstract**: Energy efficiency is a global priority, but investments in energy efficiency do not always deliver the expected benefits. This paper studies micro-irrigation systems (MIS), a technology thought to reduce the energy required for irrigation by as much as 70 percent. We installed individual meters to directly measure the energy consumption of several hundred farmers in Gujarat, India, and linked this meter data with survey data to yield a comprehensive view into energy use patterns in smallholder agriculture. We document two facts. One, energy use varies widely across farmers, and this variation is unexplained by factors such as farm area or village geography. Two, MIS users in our sample consume 30 to 40 percent more energy than nonusers of MIS. This difference does not appear to be explained by observable differences across farmers nor by rebound effects, suggesting that the energy impacts of MIS under real-world conditions may be disappointing. While these findings are not causal, they highlight a need for increased attention to details of implementation and further research into the actual benefits of resource-conserving technologies.
 ___
