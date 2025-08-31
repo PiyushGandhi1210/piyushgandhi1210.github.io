@@ -22,6 +22,10 @@ author_profile: true
 
 ### Working Papers
 
+**Does Micro-irrigation Save Energy? An Investigation in Gujarat, India** (with [Nick Hagerty](https://www.nickhagerty.com/) and [Ariel Zucker](https://www.arielzucker.net)
+___
+
+
 **Call and Response: The Role of Organizational Incentives in Amplifying Worker Voice**  (with [Achyuta Adhvaryu](https://www.achadhvaryu.com), [Smit Gade](https://goodbusinesslab.org/team/smit-gade-2/), [Teresa Molina](https://sites.google.com/site/teresasmolina) and [Anant Nyshadham](https://www.anantnn.com))
   
 **Abstract**: The ability of workers to communicate effectively with management and, critically, to have their questions, suggestions, and concerns heard and acted upon is commonly held as crucial for organizational performance. Yet there exists little rigorous evidence to evaluate this claim. To address this gap, we conducted a randomized controlled trial among 43 factory units of a large Indian garment manufacturer. Units were assigned at random to one of two treatment arms or a control arm. In the first treatment arm, workers were given access to a tool that enabled anonymous, two-way communication with HR via text or voice message. In the second, access to this tool was coupled with incentives for HR managers based on timely and appropriate case resolution. We find that access to the tool paired with organizational incentives substantially reduced absenteeism, increased workers' productivity and earnings, and (suggestively) reduced turnover. The tool alone did not affect any of these outcomes. Our results underscore the importance of aligning incentives within organizations to effectively improve both worker outcomes and firm performance.
