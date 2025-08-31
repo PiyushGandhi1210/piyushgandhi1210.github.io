@@ -22,7 +22,7 @@ author_profile: true
 
 ### Working Papers
 
-**Does Micro-irrigation Save Energy? An Investigation in Gujarat, India** (with [Nick Hagerty](https://www.nickhagerty.com/) and [Ariel Zucker](https://www.arielzucker.net)
+[**Does Micro-irrigation Save Energy? An Investigation in Gujarat, India**](files/Micro_Irrigation_Gujarat.pdf) (with [Nick Hagerty](https://www.nickhagerty.com/) and [Ariel Zucker](https://www.arielzucker.net)
 ___
 
 
