@@ -12,7 +12,7 @@ author_profile: true
 **Abstract**: Crop residue burning is a major environmental concern in India, exposing millions to hazardous air pollution. A key driver is the narrow planting window between rice harvesting and wheat sowing, compounded by limited knowledge of sustainable residue management. In a randomized controlled trial with rice farmers in India, I evaluate the impact of subsidizing early-maturity rice seeds—giving farmers more time to manage residues—and providing technical training on sustainable disposal methods. Preliminary results suggest that seed subsidies reduce burning by 19 percentage points, and combining subsidies with training reduces burning by 26 percentage points. A back-of-the-envelope calculation using ITT estimates and the social cost of carbon in India suggests that a $3 per acre seed subsidy reduces CO₂ emissions worth $44 per acre.
 
 #### **Funding**
-[CEGA](https://cega.berkeley.edu), [PEDL](https://pedl.cepr.org), [Center for Economic Justice and Action (UCSC)](https://economicjustice.ucsc.edu), [J-PAL ATAI](https://www.povertyactionlab.org/initiative/agricultural-technology-adoption-initiative), [Agricultural Experiment Station (UCSC)](https://www.ucsc.edu/agricultural-experiment-station/) and [Department of Economics (UCSC)](https://economics.ucsc.edu)
+[CEGA](https://cega.berkeley.edu), [PEDL](https://pedl.cepr.org), [Center for Economic Justice and Action (UCSC)](https://economicjustice.ucsc.edu), [Agricultural Experiment Station (UCSC)](https://www.ucsc.edu/agricultural-experiment-station/) and [Department of Economics (UCSC)](https://economics.ucsc.edu)
 
 #### **Coverage**
 
@@ -35,6 +35,12 @@ author_profile: true
 #### **Funding**
 [Humanity United](https://humanityunited.org)
 
+**Fighting Farm Fires: Lessons from a Pilot Intervention to Reduce Crop Residue Burning in India**
+
+**Abstract**: Crop residue burning by rice farmers in North India is a major contributor to winter air pollution, accounting for up to one-third of particulate emissions during the harvest season. To evaluate whether reducing time and information constraints can curb this practice, I conducted a pilot randomized controlled trial with 205 farmers in Punjab in 2022. The intervention combined an in-person information session on sustainable crop residue management (CRM) practices and the environmental harms of burning, along with free access to PUSA bio-decomposer (a microbial solution that accelerates residue decomposition). Treated farmers were 56 percentage points more likely to adopt at least one alternate CRM method and 56 percentage points less likely to burn their fields relative to the control mean of 81% area burnt. While the treated farmers used the decomposer on only 5% of their cultivated land, many adopted complementary technologies such as Happy Seeders and Balers, suggesting that information and sensitization were key drivers of behavioral change. These results highlight the potential of low-cost, information-based interventions to promote sustainable farming practices and reduce agricultural pollution in India. 
+
+#### **Funding**
+[J-PAL ATAI](https://www.povertyactionlab.org/initiative/agricultural-technology-adoption-initiative)
 ___
 
 ### Works in Progress
