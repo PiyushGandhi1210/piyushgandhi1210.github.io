@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-[📄 Download CV](files/CV_Piyush.pdf){: .btn .btn--primary target="_blank"}
+[📄 Download CV](files/CV_Piyush_Gandhi.pdf){: .btn .btn--primary target="_blank"}
 
 <div style="text-align: justify;">
 <p>Hi! I’m Piyush Gandhi, a Ph.D. candidate in Economics at UC Santa Cruz, focusing on the intersection of development and environmental sustainability in developing countries. </p>
