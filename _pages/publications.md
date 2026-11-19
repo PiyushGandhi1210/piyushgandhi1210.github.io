@@ -32,7 +32,7 @@ alternatives to burning, with some learning occurring even in the subsidy-only g
 
 ---
 
-[**Organizational Incentives and the Returns to Technology Adoption**](https://www.nber.org/papers/w35445) (with [Achyuta Adhvaryu](https://www.achadhvaryu.com), Smit Gade, [Teresa Molina](https://sites.google.com/site/teresasmolina) and [Anant Nyshadham](https://www.anantnn.com); under review _AER Insights_)
+[**Organizational Incentives and the Returns to Technology Adoption**](https://www.nber.org/papers/w35445) (with [Achyuta Adhvaryu](https://www.achadhvaryu.com), Smit Gade, [Teresa Molina](https://sites.google.com/site/teresasmolina) and [Anant Nyshadham](https://www.anantnn.com); under review - _AER Insights_)
   
 **Abstract**: Misaligned incentives within organizations may explain why firms fail to adopt or fully benefit from productive technologies. We conducted a randomized controlled trial in Indian garment factories in which units received an anonymous worker-management communication technology, this technology paired with incentives for HR managers to communicate effectively with workers, or neither (control). We find that the technology alone had no impacts relative to control. But pairing the technology with HR incentives increased productivity by 5%, reduced absenteeism by 13%, and raised worker earnings by 3%. Impacts were driven by greater HR responsiveness and increased worker reporting of production-related issues.
 
